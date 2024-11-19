@@ -50,7 +50,7 @@
       "summary": "Explored the effects of federated learning on multimodal tasks, including language, image, video, and audio.",
       "highlights": [
         "Collaborated with Professor Qizhen Zhang on state-of-the-art federated learning research.",
-        "Built data pipelines for experimental tasks.",
+        "Built data preparation pipelines for federated learning tasks.",
         "Authored a research paper submitted to the ACM Web Conference."
       ]
     }
