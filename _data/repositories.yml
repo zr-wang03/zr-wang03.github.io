@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - zr-wang03
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - zr-wang03/Leetcode-diary
+  - zr-wang03/Leetcode_diary2

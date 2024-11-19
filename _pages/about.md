@@ -3,17 +3,14 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <p>Assistant Machine Learning Researcher@Huawei Canada & </p>
-  <p>ECE student@UofT</p>
+  Assistant Machine Learning Researcher@Huawei Canada   &   
+  ECE student@UofT
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: place_holder_image.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -25,8 +22,8 @@ social: true # includes social icons at the bottom of the page
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
-Zhuoran Wang is a dedicated Computer Engineering undergraduate at the University of Toronto, pursuing a minor in Artificial Intelligence and Engineering Business. With a stellar academic record, including a 3.95 GPA and recognition as a University of Toronto Scholar, Zhuoran has demonstrated a strong passion for advancing machine learning and computer vision research. 
+I am a Computer Engineering student at the University of Toronto, pursuing a Minor in Artificial Intelligence Engineering and Engineering Business. During which time, I have been awarded University of Toronto Scholar scholarship and have consistently been on the Dean's Honor List each semester. 
 
-Currently, Zhuoran contributes as a Machine Learning Researcher at Huawei Canada, where he focuses on diffusion models and efficient fine-tuning strategies, culminating in a paper submitted to CVPR 2025. He also collaborate with the Far Data Lab at the University of Toronto, exploring the intersection of federated learning and multimodal data. 
+My professional experience spans roles as a Machine Learning Researcher at Huawei Canada and a Researcher at the Far Data Lab at U of T, where I have explored cutting-edge topics in computer vision, diffusion models, and federated learning. I am passionate about designing innovative solutions, such as finetuning diffusion models under few shot settings. 
 
-Beyond research, Zhuoran leads impactful projects, such as modernizing websites for student organizations and applying deep learning to large-scale health monitoring. With expertise in Python, PyTorch, and federated learning platforms, Zhuoran is committed to bridging theoretical insights with practical innovations in AI.
+In addition, I enjoy leading projects like website redesigns and applying deep learning to real-world challenges, such as sleep monitoring. Through these experiences, I aim to contribute meaningfully to the field of artificial intelligence.
