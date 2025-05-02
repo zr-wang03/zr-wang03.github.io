@@ -29,11 +29,19 @@
   },
   "work": [
     {
+      "name": "Amazon",
+      "position": "Software Development Engineer",
+      "url": "",
+      "startDate": "2025-05-05",
+      "endDate": "Present",
+      "summary": "TBD"
+    },
+    {
       "name": "Huawei Canada",
       "position": "Machine Learning Researcher",
       "url": "",
       "startDate": "2024-05-01",
-      "endDate": "Present",
+      "endDate": "2025-04-25",
       "summary": "Conducted research in computer vision and diffusion-related topics, focusing on efficient fine-tuning methods and feature testing.",
       "highlights": [
         "Designed modular adapters for UNet and Transformer-based diffusion models.",
