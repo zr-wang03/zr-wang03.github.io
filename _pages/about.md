@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Software Development Engineer@Amazon   &   
-  ECE student@UofT
+  ECE student@UofT || Former Intern at Huawei and Amazon
 
 profile:
   align: right

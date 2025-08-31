@@ -33,8 +33,12 @@
       "position": "Software Development Engineer",
       "url": "",
       "startDate": "2025-05-05",
-      "endDate": "Present",
-      "summary": "TBD"
+      "endDate": "2025-07-25",
+      "summary": "Worked as part of the Amazon Kids Organization.",
+      "highlights":[
+        "Built AWS based content moderation services with AWS provided AI tools, like Comprehend, Guardrail, and Bedrock models.",
+        "Used Java and Typescript to build backend and infrastructure."
+      ] 
     },
     {
       "name": "Huawei Canada",
@@ -44,9 +48,10 @@
       "endDate": "2025-04-25",
       "summary": "Conducted research in computer vision and diffusion-related topics, focusing on efficient fine-tuning methods and feature testing.",
       "highlights": [
-        "Designed modular adapters for UNet and Transformer-based diffusion models.",
-        "Authored a paper under submission to CVPR 2025.",
-        "Tested and debugged features for the Huawei Nova 70 phone."
+        "Followed and presented up to date research papers for weekly group meetings." ,
+        "Designed and implemented modular adapters on UNet and Transformer-based Diffusion models for fine tuning with limited data and computation power.",
+        "Authored and submitted a research paper.",
+        "Contributed to testing and debugging of new features in the Huawei Pura 70 phone.",
       ]
     },
     {
